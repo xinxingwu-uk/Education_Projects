@@ -12,7 +12,7 @@ Below is a structured overview of the project collection. Each project is self-c
 
 | ID | Project Name | Description | Link |
 |---:|---|---|---|
-| 01 | **Counter** | HTML/CSS starter project to practice layout, buttons, and simple UI structure. | [Open](Counter/index.html) |
+| 01 | **SSVA** | Singing Syllabi with Virtual Avatars: Enhancing Student Engagement Through AI-Generated Music and Digital Embodiment. | [Open](https://github.com/xinxingwu-uk/SSVA) |
 | 02 | **Calculator** | Responsive calculator UI for practicing grid layout and styling details. | [Open](Calculator/index.html) |
 | 03 | **Homepage** | Build a personal homepage (typography, spacing, sections, and clean visual design). | [Open](Homepage/index.html) |
 | 04 | **A Speaking Fish (Codes can speak)** | JavaScript interactivity demo using events + DOM updates to create “responsive” behavior. | [Open](Fish/index.html) |
