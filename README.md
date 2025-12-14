@@ -8,22 +8,19 @@ This repository is a curated collection of **educational projects and applied AI
 
 Below is a structured overview of the project collection. Each project is self-contained and can be opened independently.
 
-> Tip: Update the `Link` column to match your actual folder paths (these are based on your current structure).
-
 | ID | Project Name | Description | Link |
 |---:|---|---|---|
 | 01 | **SSVA** | Singing Syllabi with Virtual Avatars: Enhancing Student Engagement Through AI-Generated Music and Digital Embodiment. | [Open](https://github.com/xinxingwu-uk/SSVA) |
-| 02 | **Calculator** | Responsive calculator UI for practicing grid layout and styling details. | [Open](Calculator/index.html) |
-| 03 | **Homepage** | Build a personal homepage (typography, spacing, sections, and clean visual design). | [Open](Homepage/index.html) |
-| 04 | **A Speaking Fish (Codes can speak)** | JavaScript interactivity demo using events + DOM updates to create “responsive” behavior. | [Open](Fish/index.html) |
-| 05 | **A Happy Dancer (Codes can dance)** | Animation-focused project to explore timing, movement, and playful interactions. | [Open](Dancer/dancer.html) |
-| 06 | **Dancing with Music (Codes play music)** | Combine animation + audio for multi-sensory interaction and user feedback loops. | [Open](DancingWithMusic/dancingwithmusic.html) |
-| 07 | **Open Midway’s Door** | Browser mini-game emphasizing interaction design, state changes, and user feedback. | [Open](OpenDoor/index.html) |
-| 08 | **Tic-Tac-Toe** | Classic game implementation for logic, win checking, and UI state management. | [Open](TicTacToe/index.html) |
-| 09 | **Fighting** | Action-style browser game emphasizing input handling and animated feedback. | [Open](Fighting/index.html) |
-| 10 | **Tic-Tac-Toe with AI** | Add AI decision-making to Tic-Tac-Toe (heuristics/minimax-style logic). | [Open](TicTacToe_AI/index.html) |
-| 11 | **Pac-Man** | Browser Pac-Man project for experimenting with agent behavior and AI concepts. | [Open](PacMan/index.html) |
-| 12 | **Translation Assistant** | Camera + translation demo (requires a server; e.g., `node server.js`). | [Open](CameraStream_Version4/public/index.html) |
+| 02 | **VirtualAssistant** | Talking Slide Avatars for Class Lectures: This project demonstrates how to create AI-generated talking images for course slides by combining OpenVoice (speech generation) and Ditto-TalkingHead (audio-driven facial animation). | [Open](https://xinxingwu-uk.github.io/projects/demo3/slides.html) |
+| 03 | **JavaGames** | It has four games programmed by Java： Farm, FlappyBird, Pacman, and SuperMali.). | [Open](https://github.com/xinxingwu-uk/JavaGames) |
+| 04 | **Car Racing** | This is a game project, Car racing, implemented by C#. | [Open](https://github.com/xinxingwu-uk/CSharpGames_CarRacing) |
+| 05 | **Dance ControlNeXt-SVD-v2** | We provided a Google Colab implementation of ControlNeXt-SVD-v2. | [Open](https://github.com/xinxingwu-uk/Colab_Implementation-Dance_ControlNeXt-SVD) |
+| 06 | **Colab Implementation for HeyGem** | HeyGem is a free and open-source AI avatar project developed by Duix.com. It enables anyone to create ultra-realistic digital human avatars and produce AI-driven videos easily and at almost zero cost, using ordinary computer hardware. We provided a google colab implementation of HeyGem. | [Open](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem) |
+| 07 | **Colab Implementation for MuseTalkn** | MuseTalk is an AI framework for real-time video dubbing that synchronizes lip movements to new audio while preserving facial identity and visual quality. We provided a google colab implementation of MuseTalk. | [Open](https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation) |
+| 08 | **Hugging Face Gemma Client** | This repository contains minimal Python and React Native examples that call the Gemma 2B Instruct model (google/gemma-2-2b-it) through the Hugging Face Inference Router API. | [Open](https://github.com/xinxingwu-uk/App_Gemma_Python_ReactNative) |
+| 09 | **Slides: Revieal.js Template** | A slide template based on Reveal.js. | [Open](https://github.com/xinxingwu-uk/Slides_Revieal.js_Template) |
+| 10 | **Slides: LaTex Template** | A slide template based on Latex. | [Open](https://github.com/xinxingwu-uk/LaTexSlides) |
+
 
 
 ---
