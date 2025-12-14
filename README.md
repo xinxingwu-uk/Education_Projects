@@ -1,16 +1,10 @@
 # 🎓 Education Projects
 
-This repository is a curated collection of **educational projects, interactive demos, and applied AI experiments** designed for teaching, learning, and exploring **modern computing technologies** in real-world contexts.
-
-The projects emphasize **hands-on learning**, **browser-based interaction**, and **practical AI concepts**, making them suitable for:
-- Undergraduate & graduate courses
-- Self-learning and experimentation
-- Demonstrations of applied AI and human-centered computing
-- Curriculum design and instructional use
+This repository is a curated collection of **educational projects and applied AI experiments** designed for teaching, learning, and exploring **modern computing technologies** in real-world contexts.
 
 ---
 
-## 🌐 Project Themes
+## 🧠 Project Themes
 
 Below is a structured overview of the project collection. Each project is self-contained and can be opened independently.
 
@@ -34,34 +28,8 @@ Below is a structured overview of the project collection. Each project is self-c
 
 ---
 
-## 🧠 Educational Philosophy
+## 📜 License
 
-These projects are designed with the following principles:
+This repository is licensed under the terms specified in the [**LICENSE**](https://github.com/xinxingwu-uk/Education_Projects/blob/main/LICENSE) file.
 
-- **Learning by building** – every concept is reinforced through implementation  
-- **Transparency over abstraction** – minimal frameworks where possible  
-- **Human-centered computing** – interaction, perception, and user experience matter  
-- **Applied AI** – AI as a tool, not a black box  
-- **Future-ready skills** – aligned with modern industry and research practices  
-
----
-
-## 🧪 Technologies Used
-
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Interaction**: DOM APIs, animations, audio, camera input
-- **AI Concepts**: decision logic, heuristics, game AI, basic perception
-- **Tools & Platforms**:
-  - Browser-native APIs
-  - Node.js (for selected projects)
-  - Client-side AI workflows
-
-No heavy frameworks are required for most projects, making them easy to run, modify, and teach.
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+Please review the LICENSE before using, modifying, or redistributing any part of this project.
