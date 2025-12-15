@@ -20,6 +20,8 @@ Below is a structured overview of the project collection. Each project is self-c
 | 08 | **Hugging Face Gemma Client** | This repository contains minimal Python and React Native examples that call the Gemma 2B Instruct model (google/gemma-2-2b-it) through the Hugging Face Inference Router API. | [Open](https://github.com/xinxingwu-uk/App_Gemma_Python_ReactNative) |
 | 09 | **Slides: Revieal.js Template** | A slide template based on Reveal.js. | [Open](https://github.com/xinxingwu-uk/Slides_Revieal.js_Template) |
 | 10 | **Slides: LaTex Template** | A slide template based on Latex. | [Open](https://github.com/xinxingwu-uk/LaTexSlides) |
+| 11 | **Push Google Drive to GitHub** | Your project folder is already inside Google Drive：Use Google Colab to push Drive → GitHub
+. | [Open](https://github.com/xinxingwu-uk/Push-Google-Drive-to-GitHub) |
 
 
 
