@@ -21,6 +21,7 @@ Below is a structured overview of the project collection. Each project is self-c
 | 09 | **Slides: Revieal.js Template** | A slide template based on Reveal.js. | [Open](https://github.com/xinxingwu-uk/Slides_Revieal.js_Template) |
 | 10 | **Slides: LaTex Template** | A slide template based on Latex. | [Open](https://github.com/xinxingwu-uk/LaTexSlides) |
 | 11 | **Push Google Drive to GitHub** | Your project folder is already inside Google Drive：Use Google Colab to push Drive → GitHub| [Open](https://github.com/xinxingwu-uk/Push-Google-Drive-to-GitHub) |
+| 12 | **SAMCS** | Single Artifact, Multi-Context Spiral - Tic‑Tac‑Toe Learning Suite (8 Projects)| [Open](https://github.com/xinxingwu-uk/SAMCS) |
 
 
 
