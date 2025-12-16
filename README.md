@@ -11,7 +11,7 @@ Below is a structured overview of the project collection. Each project is self-c
 | ID | Project Name | Description | Link |
 |---:|---|---|---|
 | 01 | **SSVA** | Singing Syllabi with Virtual Avatars: Enhancing Student Engagement Through AI-Generated Music and Digital Embodiment. | [Open](https://github.com/xinxingwu-uk/SSVA) |
-| 02 | **VirtualAssistant** | Talking Slide Avatars for Class Lectures: This project demonstrates how to create AI-generated talking images for course slides by combining OpenVoice (speech generation) and Ditto-TalkingHead (audio-driven facial animation). | [Open](https://xinxingwu-uk.github.io/projects/demo3/slides.html) |
+| 02 | **Push Google Drive to GitHub** | Your project folder is already inside Google Drive：Use Google Colab to push Drive → GitHub| [Open](https://github.com/xinxingwu-uk/Push-Google-Drive-to-GitHub) |
 | 03 | **JavaGames** | It has four games programmed by Java： Farm, FlappyBird, Pacman, and SuperMali.). | [Open](https://github.com/xinxingwu-uk/JavaGames) |
 | 04 | **Car Racing** | This is a game project, Car racing, implemented by C#. | [Open](https://github.com/xinxingwu-uk/CSharpGames_CarRacing) |
 | 05 | **Dance ControlNeXt-SVD-v2** | We provided a Google Colab implementation of ControlNeXt-SVD-v2. | [Open](https://github.com/xinxingwu-uk/Colab_Implementation-Dance_ControlNeXt-SVD) |
@@ -20,9 +20,9 @@ Below is a structured overview of the project collection. Each project is self-c
 | 08 | **Hugging Face Gemma Client** | This repository contains minimal Python and React Native examples that call the Gemma 2B Instruct model (google/gemma-2-2b-it) through the Hugging Face Inference Router API. | [Open](https://github.com/xinxingwu-uk/App_Gemma_Python_ReactNative) |
 | 09 | **Slides: Revieal.js Template** | A slide template based on Reveal.js. | [Open](https://github.com/xinxingwu-uk/Slides_Revieal.js_Template) |
 | 10 | **Slides: LaTex Template** | A slide template based on Latex. | [Open](https://github.com/xinxingwu-uk/LaTexSlides) |
-| 11 | **Push Google Drive to GitHub** | Your project folder is already inside Google Drive：Use Google Colab to push Drive → GitHub| [Open](https://github.com/xinxingwu-uk/Push-Google-Drive-to-GitHub) |
-| 12 | **SAMCS** | Single Artifact, Multi-Context Spiral - Tic‑Tac‑Toe Learning Suite (8 Projects)| [Open](https://github.com/xinxingwu-uk/SAMCS) |
-
+<!--
+| 11 | **SAMCS** | Single Artifact, Multi-Context Spiral - Tic‑Tac‑Toe Learning Suite (8 Projects)| [Open](https://github.com/xinxingwu-uk/SAMCS) |
+| 12 | **VirtualAssistant** | Talking Slide Avatars for Class Lectures: This project demonstrates how to create AI-generated talking images for course slides by combining OpenVoice (speech generation) and Ditto-TalkingHead (audio-driven facial animation). | [Open](https://xinxingwu-uk.github.io/projects/demo3/slides.html) | -->
 
 
 ---
