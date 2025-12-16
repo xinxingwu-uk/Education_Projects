@@ -20,11 +20,13 @@ Below is a structured overview of the project collection. Each project is self-c
 | 08 | **Hugging Face Gemma Client** | This repository contains minimal Python and React Native examples that call the Gemma 2B Instruct model (google/gemma-2-2b-it) through the Hugging Face Inference Router API. | [Open](https://github.com/xinxingwu-uk/App_Gemma_Python_ReactNative) |
 | 09 | **Slides: Revieal.js Template** | A slide template based on Reveal.js. | [Open](https://github.com/xinxingwu-uk/Slides_Revieal.js_Template) |
 | 10 | **Slides: LaTex Template** | A slide template based on Latex. | [Open](https://github.com/xinxingwu-uk/LaTexSlides) |
+
+<!--
 | 11 | **SAMCS** | Single Artifact, Multi-Context Spiral - Tic‑Tac‑Toe Learning Suite (8 Projects)| [Open](https://github.com/xinxingwu-uk/SAMCS) |
 | 12 | **VirtualAssistant** | Talking Slide Avatars for Class Lectures: This project demonstrates how to create AI-generated talking images for course slides by combining OpenVoice (speech generation) and Ditto-TalkingHead (audio-driven facial animation). | [Open](https://github.com/xinxingwu-uk/VirtualAssistant) |
 | 13 | **Gemma Chat Demos** | This project includes a compact, teachable sequence of three “same-idea, different-context” projects that help students learn practical large language model (LLM) integration by building a Gemma-powered chat experience in (1) Python, (2) a browser-based web app, and (3) a React Native mobile app. | [Open](https://github.com/xinxingwu-uk/Gemma-Chat-Demos) |
 | 14 | **AI as a plug-in perception layer** | This project includes a practical pathway: Traditional game → same game with “AI-powered” interaction (computer vision / ML models in the browser). The goal is not “mysterious AI magic”—it’s to help students clearly see how to integrate AI as a perception + control layer on top of standard programming, UI, and game loops. | [Open](https://github.com/xinxingwu-uk/AI-Powered-Classic-Games) |
-
+-->
 
 ---
 
